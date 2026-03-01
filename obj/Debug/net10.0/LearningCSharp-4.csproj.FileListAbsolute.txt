@@ -1,0 +1,14 @@
+F:\LearningCSharp-4\bin\Debug\net10.0\LearningCSharp-4.exe
+F:\LearningCSharp-4\bin\Debug\net10.0\LearningCSharp-4.deps.json
+F:\LearningCSharp-4\bin\Debug\net10.0\LearningCSharp-4.runtimeconfig.json
+F:\LearningCSharp-4\bin\Debug\net10.0\LearningCSharp-4.dll
+F:\LearningCSharp-4\bin\Debug\net10.0\LearningCSharp-4.pdb
+F:\LearningCSharp-4\obj\Debug\net10.0\LearningCSharp-4.GeneratedMSBuildEditorConfig.editorconfig
+F:\LearningCSharp-4\obj\Debug\net10.0\LearningCSharp-4.AssemblyInfoInputs.cache
+F:\LearningCSharp-4\obj\Debug\net10.0\LearningCSharp-4.AssemblyInfo.cs
+F:\LearningCSharp-4\obj\Debug\net10.0\LearningCSharp-4.csproj.CoreCompileInputs.cache
+F:\LearningCSharp-4\obj\Debug\net10.0\LearningCSharp-4.dll
+F:\LearningCSharp-4\obj\Debug\net10.0\refint\LearningCSharp-4.dll
+F:\LearningCSharp-4\obj\Debug\net10.0\LearningCSharp-4.pdb
+F:\LearningCSharp-4\obj\Debug\net10.0\LearningCSharp-4.genruntimeconfig.cache
+F:\LearningCSharp-4\obj\Debug\net10.0\ref\LearningCSharp-4.dll
